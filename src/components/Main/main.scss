@@ -1,0 +1,576 @@
+.main__home {
+    display: flex;
+    width: 1208px;
+    height: 561px;
+    background: #E4D1BA;
+    margin: 150px 160px;
+
+}
+
+.main__home-left {
+    padding: 85px 85px;
+}
+
+.main__home-right {
+    position: absolute;
+    padding: 34px 259px;
+}
+
+.main__home-left-title {
+    width: 364px;
+    height: 160px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 80px;
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+.main__home-left-text {
+    width: 321.5px;
+    height: 58px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin: 40px 0;
+}
+
+.main__home-left-button {
+    width: 190px;
+    height: 62px;
+    background: #FFFFFF;
+}
+
+.left__button-text,
+.left__button-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #814D35;
+    padding-left: 47px;
+    padding-top: 20px;
+}
+
+.left__button-text:hover {
+    cursor: pointer;
+    color: #000000;
+}
+
+.main__asd {
+    position: absolute;
+    z-index: 10;
+    margin-top: 500px;
+    margin-right: 500px;
+}
+
+.right {
+    position: absolute;
+    padding-left: 1100px;
+}
+
+.main__first-block,
+.main__first-block {
+    display: flex;
+    margin: 200px 0;
+    margin-left: 200px;
+}
+
+.first__block,
+.first__block {
+    width: 387px;
+    height: 394px;
+    background: #93C0D7;
+    padding-left: 33px;
+    z-index: 40;
+    margin-right: -90px;
+    margin-top: 140px;
+}
+
+
+.forst__block-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    color: #FFFFFF;
+    padding: 40px 0;
+}
+
+.first__block-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.firts__block-button {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    padding: 50px 0;
+}
+
+.second__block {
+    width: 592px;
+    height: 664px;
+    background: #AACFE2;
+    position: relative;
+    z-index: 1;
+}
+
+.jacket,
+.jacket {
+    margin-left: 142px;
+    display: block;
+    z-index: 5;
+    margin-top: -50px;
+}
+
+.third__block,
+.third__block {
+    border-radius: 50%;
+    width: 198.57px;
+    height: 200px;
+    background: #5B93AA;
+    margin-top: 529px;
+    position: absolute;
+    z-index: 50;
+    margin-left: 780px;
+}
+
+.third__block-figure {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    color: #FFFFFF;
+    padding: 70px 44px;
+}
+
+.main__second-block-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 72px;
+    color: #000000;
+    text-align: center;
+}
+
+.main__second-block-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #767676;
+    transform: rotate(-0.04deg);
+}
+
+.grid__block {
+    column-gap: 100px;
+    margin: 104px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.dfg {
+    z-index: -1;
+    position: absolute;
+}
+
+.first__fashion-about {
+    width: 55px;
+    height: 32px;
+    border: 1px solid #3D3D3A;
+}
+
+.first__fashion-abut-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #3D3D3A;
+    padding: 5px 8px;
+}
+
+.first__fashion-title {
+    margin-top: 304px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.first__fashion-price {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-top: 11px;
+}
+
+.second__fashion-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.second__fashion-price {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-top: 11px;
+}
+
+.fivth__grid-block,
+.sixth__grid-block,
+.seventh__grid-block,
+.eighth {
+    margin-top: 60px;
+}
+
+.button__other {
+    align-items: center;
+    display: flex;
+    margin-left: 1300px;
+}
+
+.button__other-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #3D3D3A;
+
+}
+
+.third__block1 {
+    width: 100%;
+    height: 1333px;
+    background: #E4D1BA;
+    margin-top: 115px;
+    display: flex;
+}
+
+.third__block1-f,
+.third__block1-f {
+    margin-left: 111px;
+    margin-top: 122px;
+}
+
+.third__block-s,
+.third__block-s {
+    position: absolute;
+    margin-left: 561px;
+    margin-top: 574px;
+}
+
+.third__block-first-title {
+    margin-top: 79px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    color: #3D3D3A;
+}
+
+.third__block-first-text {
+    width: 321.5px;
+    height: 116px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #3D3D3A;
+    margin: 35px 0;
+}
+
+.third__block-first-button {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-decoration-line: underline;
+    color: #3D3D3A;
+}
+
+.third__block-s-title {
+    margin: 337px 510px;
+    position: absolute;
+    z-index: 5;
+    width: 464px;
+    height: 330px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 144px;
+    line-height: 165px;
+    letter-spacing: -0.08em;
+    color: #3D3D3A;
+}
+
+.forth__block {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: 115px 0;
+}
+
+.eleven,
+.twelve,
+.thirte,
+.forte {
+    display: flex;
+}
+
+.forth__block-first {
+    width: 300px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 144px;
+    line-height: 150px;
+    letter-spacing: -0.1em;
+    color: #3D3D3A;
+}
+
+.forth__block-first-title,
+.forth__block-second-title,
+.forte__title,
+.forth__block-third-title {
+    padding-left: 22px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #3D3D3A;
+}
+
+.twelve,
+.forte {
+    padding-top: 43px;
+}
+
+.fivth__block {
+    width: 100%;
+    height: 606px;
+    background: #B27554;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 100px;
+}
+
+
+.create-line {
+    position: absolute;
+    width: 1250px;
+    margin-top: 450px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.sing__up-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.sing__up-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    width: 317px;
+    color: #FFFFFF;
+    transform: rotate(-0.04deg);
+    margin-top: 20px;
+}
+
+.sing__up-button {
+    width: 190px;
+    height: 62px;
+    background: #FFFFFF;
+    margin-top: 50px;
+}
+
+.input__text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 30px;
+}
+
+.sing__up-button-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 20px 61px;
+    color: #B27554;
+    transition: 1s;
+}
+
+.sing__up-button-text:hover {
+    background: black;
+    color: #FFFFFF;
+}
+
+.input__line {
+    width: 330px;
+    border: 2px solid #FFFFFF;
+    margin-top: 16px;
+}
+
+.quick__links1,
+.connect {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin: 58px 0;
+    
+}
+.quick__links,
+.Connect__With-Us {
+    margin-bottom: 90px;
+}
+.Shop,.social__networks {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding-top: 20px;
+}
+
+.footer__img,.footer__img {
+    position: absolute;
+    margin-top: 550px;
+    margin-right: 1100px;
+}
+
+
+.hover {
+    padding: 20px 70px;
+    position: absolute;
+    margin-top: 268px;
+    height: 60px;
+    width: 100%;
+    max-width: 240px;
+    background:  #D65DB1;
+    opacity: 0;
+    transition: 1s; 
+    cursor: pointer;
+    font-family: "Roboto";
+    z-index: 5;
+
+    &__text {
+        z-index: 1;
+        color: #3d3462;
+        // background: white;
+    }
+}
+
+.hover:hover {
+    opacity: 1;
+}
+
+.click {
+    padding-top: 20px;
+    opacity: 0;
+    transition: 1s; 
+    cursor: pointer;
+    font-family: "Roboto";
+    background: #D65DB1;
+    height: 60px;
+    width: 100%;
+    max-width: 240px;
+    margin-top: -64px;
+    position: absolute;
+    z-index: 5;
+
+    &__text {
+        margin-left: 70px;
+        color: #3d3462;
+    }
+}
+
+.click:hover {
+    opacity: 1;
+}
+
+/* start check list */
+
+.check-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.check-list-img {
+    width: 150px;
+    height: 150px;
+}
+
+.check-list-text {
+    color: #000000;
+    font-weight: 400;
+    font-family: 'Roboto';
+}
+
+.check-list-price {
+    color: #000000;
+    font-weight: 400;
+}
+
+
+
+/* and check list */
